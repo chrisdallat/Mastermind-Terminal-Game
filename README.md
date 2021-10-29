@@ -28,7 +28,7 @@ Your program will also receive the following parameters:
    ```sh
    make
    ```
-2. You can then run the program with "./my_mastermind" and if wanted you can change the parameters of the game by using:
+2. You can then run the program with "./my_mastermind" and default parameters with randomly generated code or, if wanted user can change the parameters of the game by using:
     * -t : number of attempts
     * -p : to change the 8 unique numbers/pieces to play from
     * -c : to change the code to find.
@@ -37,7 +37,7 @@ Your program will also receive the following parameters:
    ```sh
    e.g './my_mastermind -t 12 -p 12345678 -c 1345'
    ```
-3. The game will then output the game information followed by a prompt for your first guess and continue until 1 of 3 outcomes:
+3. The game will then output the game information followed by a prompt for the user to make their first guess and continue until 1 of 3 outcomes:
     * The secret code is guessed
     * No more attempts remain
     * 'q' is input to quit
