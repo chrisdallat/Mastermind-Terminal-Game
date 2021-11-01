@@ -20,8 +20,8 @@ typedef struct game_info {
 
 #endif
 
-#ifndef MY_MASTERMIND_H
-#define MY_MASTERMIND_H
+#ifndef MY_MASTERMIND_C
+#define MY_MASTERMIND_C
 
 info *init_info(info*);
 void print_info(info*);

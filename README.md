@@ -1,4 +1,3 @@
-
 <!-- GETTING STARTED -->
 ## My_mastermind (Terminal Game)
 ### Task Description
@@ -23,7 +22,7 @@ Your program will also receive the following parameters:
 
 ### Program Usage
 
-1. From the terminal move to "mastermind" directory and type "make" to compile the program.
+1. From the terminal move to "my_mastermind" directory and type "make" to compile the program.
 
    ```sh
    make
