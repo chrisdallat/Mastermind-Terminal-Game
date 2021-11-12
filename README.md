@@ -1,5 +1,5 @@
 <!-- GETTING STARTED -->
-## My_mastermind (Terminal Game)
+## Mastermind (Terminal Game)
 ### Task Description
 
 Mastermind is a game composed of 8 pieces of different colors.
